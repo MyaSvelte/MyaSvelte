@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyaSvelte
-- 👀 I’m interested in frontend Web development 
+- 👀 I’m interested in Frontend Web development 
 - 🌱 I’m currently learning HTML, CSS,JS and WordPress 
 - 💞️ I’m looking to collaborate on the above mentioned languages 
 - 📫 How to reach me @ mayowaokere@gmail.com 
